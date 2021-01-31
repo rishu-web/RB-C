@@ -1,5 +1,5 @@
 # RB-C
-app development project . Team memebers working on this project :- rishabh , vicky ,pradyuman,siddhanth
+app development project . Team memebers working on this project :- Rishabh, Vicky, Pradyuman, Siddhanth
 
 
 android studio version :- 4.2 beta
